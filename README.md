@@ -65,6 +65,8 @@ Sử dụng ngôn ngữ đơn giản, dễ hiểu, chuyên nghiệp nhưng gần
 **ĐỊNH DẠNG ĐẦU RA:**
 - Phần 1: Nhật ký suy luận logic (Reasoning Steps) chỉ ra công thức tính toán và số liệu trung gian.
 - Phần 2: Bảng phân bổ ngân sách cuối cùng bằng Markdown Table với các cột: Hạng mục, Số tiền, Tỷ lệ %, Ghi chú.
+
+---
 ## Phần 1: Nhật ký suy luận logic (Reasoning Steps) chỉ ra công thức tính toán và số liệu trung gian.
 ### Bước 1: Tính thu nhập khả dụng
 Dữ liệu đầu vào:
